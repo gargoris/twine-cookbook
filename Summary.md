@@ -2,6 +2,8 @@
 
 * [Example Formatting](formatting.md)
 
+* [Using the Cookbook](using_cookbook.md)
+
 # Terms
 
 * Common Terms
@@ -12,7 +14,15 @@
 	* [Variables](terms/terms_variables.md)
 	* [Macros](terms/terms_macros.md)
 	* [Story Formats](terms/terms_storyformats.md)
+	* [CSS](terms/terms_css.md)
 	* [JavaScript](terms/terms_javascript.md)
+	* [Twee](terms/terms_twee.md)
+
+# Adding Functionality
+
+* Adding Functionality
+	* [SugarCube](addingfunctionality/sugarcube/sugarcube_adding_functionality.md)
+	* [Snowman](addingfunctionality/snowman/snowman_adding_functionality.md)
 
 # Audio
 
